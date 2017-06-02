@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Шаблон Default | <?= $title?></title>
     <link href="/public/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
     <script src="/public/js/html5shiv.min.js"></script>
     <script src="/public/js/respond.min.js"></script>
 

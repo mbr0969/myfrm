@@ -9,7 +9,7 @@ use vendor\libs\PHP_Timer;
 
 class MainController extends AppController {
 
-    public $layout = 'main';
+    //public $layout = 'main';
 
     public function indexAction() {
         PHP_Timer::start();
